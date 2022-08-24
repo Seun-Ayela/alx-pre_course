@@ -1,0 +1,5 @@
+git checkout main 
+git add .
+git command -m "your message"
+git branch -m main
+push -u origin main
